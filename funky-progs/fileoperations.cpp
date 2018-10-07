@@ -4,9 +4,7 @@
 
 #include "fileoperations.h"
 
-
 using namespace std;
-
 
 void File::add(Phone_Record *new_record_ptr){
    int current_index;
